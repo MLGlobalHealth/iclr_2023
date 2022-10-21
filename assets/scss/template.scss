@@ -1,0 +1,19 @@
+// change footer color
+.page-footer {
+  background-color: black;
+}
+
+// Override featurette icon text color
+.featurette-icon,
+.dark .featurette .section-subheading {
+  color: black;
+}
+
+// Center sponsor logos
+#sponsors figure {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+}
+
